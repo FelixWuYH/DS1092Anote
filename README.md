@@ -5,7 +5,7 @@
 ## 繳交格式：檔名必須是 班級_學號_姓名 的PDF檔 或 MD檔(放線上筆記的網址)
 1. **手寫筆記**：拍照或掃描須清晰，合併成單一PDF檔，命名為**班級_學號_姓名.PDF**後上傳，自行調整篇幅或解析度，檔案大小不得超過**10MB**
 2. **線上筆記**：編輯一個**班級_學號_姓名.md**，內容放入可成功連線至線上公開筆記的單一網址，**筆記第一行請標註自己的學號**，篇幅不限
-編輯MD檔可參閱[GitHub Markdown語法簡介中文版](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)自學
+編輯MD檔可參閱[GitHub Markdown語法簡介中文版](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
 ---
 ## 繳交方式：fork這個倉庫，加入PDF檔或新增MD檔，發Pull Request請老師檢驗後合併到這裡
 發PR程序參考1.[GitHub 該如何發 PR(pull reqest)](https://hsiangfeng.github.io/git/20190615/4143994266/)
